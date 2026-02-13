@@ -1,0 +1,32 @@
+s = "Python Programming"
+
+print("\nString Operations:\n")
+# 1. Length
+print("1. Length:", len(s))
+
+# 2. Capitalize
+print("2. Capitalize:", s.capitalize())
+
+# 3. Casefold
+print("3. Casefold:", s.casefold())
+
+# 4.Starts with
+print("4. Starts with: ", s.startswith(" ")
+
+# 5. Split
+print("5. Split:", s.split())
+
+# 6. Replace
+print("6. Replace:", s.replace("world", "Python"))
+
+# 7. Lower
+print("7. Lower:", s.lower())
+
+# 8. Upper
+print("8. Upper:", s.upper())
+
+# 9. Title
+print("9. Title:", s.title())
+
+# 10. Swapcase
+print("10. Swapcase:", s.swapcase())
